@@ -1,4 +1,3 @@
-
 import math
 from cmath import pi
 length = float(input("What is the length (meters): "))
