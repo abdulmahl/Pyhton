@@ -23,6 +23,7 @@ results1 = bmi_calculator(name1, height_m1, weight_kg1)
 results2 = bmi_calculator(name2, height_m2, weight_kg2)
 results3 = bmi_calculator(name3, height_m3, weight_kg3)
 
+print()
 print(results1)
 print(results2)
 print(results3)
