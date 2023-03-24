@@ -5,4 +5,4 @@ length = float(input("What is the length (meters): "))
 
 time = 2 * pi * math.sqrt (length / 9.81)
 
-print(f"Time in (seconds) is: {time:.1f} seconds.\n")
+print(f"Time in (seconds) is: {time:.1f} seconds\n")
